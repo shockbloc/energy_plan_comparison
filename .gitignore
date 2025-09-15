@@ -18,3 +18,9 @@ venv/
 .DS_Store
 # Vercel
 .vercel/
+#Claude
+CLAUDE.md
+#taskmaster
+.taskmaster/
+# MCP Servers
+.mcp.json

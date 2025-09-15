@@ -1,6 +1,10 @@
-# pnpm-workspace.yaml
 packages:
-  - 'apps/*'
-  - 'packages/*'
-  - 'mcp-servers/*'
-  - 'infra/*'
+  - apps/*
+  - packages/*
+  - mcp-servers/*
+  - infra/*
+
+onlyBuiltDependencies:
+  - '@tailwindcss/oxide'
+  - protobufjs
+  - sharp

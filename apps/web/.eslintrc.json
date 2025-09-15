@@ -1,0 +1,3 @@
+{
+    "extends": ["@shockbloc/eslint-config", "next/core-web-vitals"]
+  }
