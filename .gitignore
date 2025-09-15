@@ -1,0 +1,20 @@
+# .gitignore
+.env
+.env.local
+.DS_Store
+node_modules/
+dist/
+build/
+.next/
+out/
+# Python
+__pycache__/
+*.pyc
+venv/
+.pytest_cache/
+# IDEs
+.vscode/
+# Mac
+.DS_Store
+# Vercel
+.vercel/
